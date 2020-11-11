@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Security.OAuth.ArcGIS.Sample.API", "AspNet.Security.OAuth.ArcGIS.Sample.API\AspNet.Security.OAuth.ArcGIS.Sample.API.csproj", "{688328E9-30AD-4559-A0B7-EADF1E86446A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688328E9-30AD-4559-A0B7-EADF1E86446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688328E9-30AD-4559-A0B7-EADF1E86446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688328E9-30AD-4559-A0B7-EADF1E86446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688328E9-30AD-4559-A0B7-EADF1E86446A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2529C7A3-DEFB-4812-813D-75B0BAE999F4}
+	EndGlobalSection
+EndGlobal
