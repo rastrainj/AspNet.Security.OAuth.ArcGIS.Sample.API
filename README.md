@@ -6,7 +6,7 @@
 
 AspNet.Security.OAuth.ArcGIS.Sample.API is built against the latest NET Core 3.
 
-- [Install](https://dotnet.microsoft.com/download/dotnet-core/3.1) the [required](https://github.com/rastrainj/AspNet.Security.OAuth.ArcGIS.Sample.API/blob/main/global.json) .NET Core SDK.
+- Run [install-sdk.ps1](https://github.com/rastrainj/AspNet.Security.OAuth.ArcGIS.Sample.API/blob/main/install-sdk.ps1) or [install-sdk.sh](https://github.com/rastrainj/AspNet.Security.OAuth.ArcGIS.Sample.API/blob/main/install-sdk.sh) to install required .NET Core SDK.
 - Run `dotnet build` in the root of the repo.
 
 ## Usage
